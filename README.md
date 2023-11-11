@@ -1,2 +1,2 @@
-# Assignment - Rad sa podacima na frontendu
+# Assignment 
 Assignment - Rad sa podacima na frontendu
